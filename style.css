@@ -160,6 +160,12 @@
   color: #E63E6D;
 }
 
+@media only screen and (max-width: 989px) {
+  .index #leila {
+    display: none;
+  }
+}
+
 footer {
   background-color: #420516 !important;
 }

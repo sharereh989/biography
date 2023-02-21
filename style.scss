@@ -125,6 +125,11 @@
       text-decoration: none;
       color:$forth-color;
     }
+    @media only screen and (max-width: 989px) {
+      #leila {
+        display: none;
+      }
+    }
 }
 footer{
     background-color:$primary-color !important;
