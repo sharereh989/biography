@@ -160,7 +160,7 @@
   color: #E63E6D;
 }
 
-@media only screen and (max-width: 989px) {
+@media (max-width: 991.98px) {
   .index #leila {
     display: none;
   }
