@@ -56,11 +56,11 @@
 .index #mySidenav a {
   position: absolute;
   padding: 15px;
-  width: 129px;
+  width: 160px;
   text-decoration: none;
   font-size: 20px;
   color: #ffffff;
-  border-radius: 40px 0 0 40px;
+  border-radius: 40px;
 }
 
 .index #mySidenav a:hover {
