@@ -45,6 +45,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url("./assets/p.jpeg");
+  background-position: 0% 16%;
 }
 
 .index .bio {
